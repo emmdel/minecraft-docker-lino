@@ -1,1 +1,9 @@
+# personal stuff
+.env
+
+# services data
 /data
+
+# IDE stuff
+.idea
+.vscode
