@@ -13,6 +13,7 @@ services:
     environment:
       WHITELIST: ~
       OVERRIDE_OPS: true
+      OPS: ~
       MAX_PLAYERS: 20
     volumes:
       # attach a directory relative to the directory containing this compose file
