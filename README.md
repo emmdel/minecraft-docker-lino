@@ -15,6 +15,6 @@ Forge 36.2.0
 
 #### Mods
 
-[Blockling Collection 4.5](https://www.curseforge.com/minecraft/mc-mods/blocklingcollection/files)
-[Flywheel 1.16-0.2.4](https://www.curseforge.com/minecraft/mc-mods/flywheel/files)
-[Create 1.16.5 v0.3.2d](https://www.curseforge.com/minecraft/mc-mods/create/files)
+[Blockling Collection 4.5](https://www.curseforge.com/minecraft/mc-mods/blocklingcollection/files)  
+[Flywheel 1.16-0.2.4](https://www.curseforge.com/minecraft/mc-mods/flywheel/files)  
+[Create 1.16.5 v0.3.2d](https://www.curseforge.com/minecraft/mc-mods/create/files)  
