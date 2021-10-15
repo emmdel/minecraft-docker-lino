@@ -11,7 +11,7 @@ Highly based on [itzg/docker-minecraft-server](https://github.com/itzg/docker-mi
 ### Versions
 
 Minecraft 1.16.5
-Forge 36.2.0
+[Forge 36.2.0](https://adfoc.us/serve/sitelinks/?id=271228&url=https://maven.minecraftforge.net/net/minecraftforge/forge/1.16.5-36.2.0/forge-1.16.5-36.2.0-installer.jar)
 
 #### Mods
 
