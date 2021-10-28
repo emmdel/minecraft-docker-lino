@@ -20,4 +20,5 @@ Minecraft 1.16.5
 [Create 1.16.5 v0.3.2d](https://www.curseforge.com/minecraft/mc-mods/create/files)  
 [Citadel 1.8.1-1.16.5](https://www.curseforge.com/minecraft/mc-mods/citadel/files/3441028)  
 [Ice and Fire: Dragons 2.1.9-1.16.5](https://www.curseforge.com/minecraft/mc-mods/ice-and-fire-dragons/files/3441117)   
-[WorldEdit 7.2.5](https://www.curseforge.com/minecraft/mc-mods/worldedit/files/3283693)   
+[WorldEdit 7.2.5](https://www.curseforge.com/minecraft/mc-mods/worldedit/files/3283693)  
+[Apotheosis-1.16.5-4.8.2](https://www.curseforge.com/minecraft/mc-mods/apotheosis/files/3490144) 
