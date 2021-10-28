@@ -19,5 +19,5 @@ Minecraft 1.16.5
 [Flywheel 1.16-0.2.4](https://www.curseforge.com/minecraft/mc-mods/flywheel/files)  
 [Create 1.16.5 v0.3.2d](https://www.curseforge.com/minecraft/mc-mods/create/files)  
 [Citadel 1.8.1-1.16.5](https://www.curseforge.com/minecraft/mc-mods/citadel/files/3441028)  
-[Ice and Fire: Dragons 2.1.9-1.16.5](https://www.curseforge.com/minecraft/mc-mods/ice-and-fire-dragons/files/3441117) 
-[WorldEdit 7.2.5](https://www.curseforge.com/minecraft/mc-mods/worldedit/files/3283693) 
+[Ice and Fire: Dragons 2.1.9-1.16.5](https://www.curseforge.com/minecraft/mc-mods/ice-and-fire-dragons/files/3441117)   
+[WorldEdit 7.2.5](https://www.curseforge.com/minecraft/mc-mods/worldedit/files/3283693)   
