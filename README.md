@@ -22,4 +22,14 @@ Minecraft 1.16.5
 [Ice and Fire: Dragons 2.1.9-1.16.5](https://www.curseforge.com/minecraft/mc-mods/ice-and-fire-dragons/files/3441117)   
 [WorldEdit 7.2.5](https://www.curseforge.com/minecraft/mc-mods/worldedit/files/3283693)  
 [Apotheosis-1.16.5-4.8.2](https://www.curseforge.com/minecraft/mc-mods/apotheosis/files/3490144)  
-  [Placebo-1.16.5-4.6.0](https://www.curseforge.com/minecraft/mc-mods/placebo/files/3437009) 
+[Placebo-1.16.5-4.6.0](https://www.curseforge.com/minecraft/mc-mods/placebo/files/3437009)  
+
+### Reference
+
+> This is a reference for myself, when I have to install mode, update things.
+
+#### Add mod(s) to the server
+
+1.  Download the right version(s) locally
+2.  `scp ~/Downloads/*.jar microserver:docker/minecraft-docker-lino/mods/`
+3.  `rm ~/Downloads/*.jar`
